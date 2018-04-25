@@ -1,0 +1,1 @@
+export const TOKEN_NEWS = '919480e7410442189b82f9bca505760a';
